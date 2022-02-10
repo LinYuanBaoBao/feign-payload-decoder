@@ -22,6 +22,12 @@ by：林同学（765371578@qq.com）
 
 ```xml
 <dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-starter-openfeign</artifactId>
+    <version>3.1.0</version>
+</dependency>
+
+<dependency>
     <groupId>com.github.LinYuanBaoBao</groupId>
     <artifactId>feign-payload-decoder</artifactId>
     <version>1.0.0-RELEASE</version>
